@@ -1,0 +1,45 @@
+{
+ "tile_words": [
+  "WORKOUT",
+  "REPS",
+  "SLEEP",
+  "STEPS",
+  "MACROS",
+  "HRV",
+  "HABIT",
+  "STREAK",
+  "KCAL",
+  "PLAN",
+  "GPX",
+  "ROUTE",
+  "VO2",
+  "LOG",
+  "COACH",
+  "SETS"
+ ],
+ "gradient": [
+  [
+   30,
+   110,
+   200
+  ],
+  [
+   150,
+   60,
+   200
+  ],
+  [
+   235,
+   120,
+   40
+  ]
+ ],
+ "title": [
+  "Health and Fitness Tec",
+  "h"
+ ],
+ "title_size": 88,
+ "sub1": "WORKOUTS  |  NUTRITION  |  WEARABLES",
+ "sub2": "SLEEP  |  HABITS  |  DATA",
+ "foot": "Open-source health and fitness software, each checked for license and activity"
+}

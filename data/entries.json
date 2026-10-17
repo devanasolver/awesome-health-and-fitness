@@ -1,0 +1,202 @@
+[
+  {
+    "repo": "google-ai-edge/mediapipe",
+    "category": "ai",
+    "description": "Cross-platform framework for on-device ML, including pose tracking.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "ultralytics/ultralytics",
+    "category": "ai",
+    "description": "YOLO models for detection, segmentation and pose estimation.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "hapifhir/hapi-fhir",
+    "category": "clinical",
+    "description": "Java implementation of the FHIR standard.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "medplum/medplum",
+    "category": "clinical",
+    "description": "Open-source healthcare developer platform built on FHIR.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "openmrs/openmrs-core",
+    "category": "clinical",
+    "description": "Open-source medical record system platform.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "smart-on-fhir/client-py",
+    "category": "clinical",
+    "description": "Python client for FHIR servers.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-09-24"
+  },
+  {
+    "repo": "glanceapp/glance",
+    "category": "habit",
+    "description": "Self-hosted dashboard for feeds and personal info.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-15"
+  },
+  {
+    "repo": "HabitRPG/habitica",
+    "category": "habit",
+    "description": "Habit-building and productivity app that treats life like a game.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "iSoron/uhabits",
+    "category": "habit",
+    "description": "Habit tracker for Android that helps you build good habits.",
+    "license": "GPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "mealie-recipes/mealie",
+    "category": "nutrition",
+    "description": "Self-hosted recipe manager and meal planner.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "openfoodfacts/openfoodfacts-python",
+    "category": "nutrition",
+    "description": "Python SDK for the Open Food Facts API.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-01"
+  },
+  {
+    "repo": "openfoodfacts/openfoodfacts-server",
+    "category": "nutrition",
+    "description": "Server behind Open Food Facts, a free food products database.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "openfoodfacts/smooth-app",
+    "category": "nutrition",
+    "description": "Open Food Facts mobile app for scanning and comparing food.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "TandoorRecipes/recipes",
+    "category": "nutrition",
+    "description": "Self-hosted recipe manager with meal planning and shopping lists.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "endurain-project/endurain",
+    "category": "run",
+    "description": "Self-hosted fitness tracking service.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "GoldenCheetah/GoldenCheetah",
+    "category": "run",
+    "description": "Cycling power analysis and training software.",
+    "license": "GPL-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "stravalib/stravalib",
+    "category": "run",
+    "description": "Python library for the Strava API v3.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-05"
+  },
+  {
+    "repo": "tkrajina/gpxpy",
+    "category": "run",
+    "description": "GPX file parser and manipulation library for Python.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-09-26"
+  },
+  {
+    "repo": "yihong0618/running_page",
+    "category": "run",
+    "description": "Make your own running home page from many apps.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-07"
+  },
+  {
+    "repo": "cyberjunky/python-garminconnect",
+    "category": "wearable",
+    "description": "Python wrapper for the Garmin Connect API.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "tcgoetz/GarminDB",
+    "category": "wearable",
+    "description": "Download and parse Garmin health and activity data into SQLite.",
+    "license": "GPL-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "the-momentum/open-wearables",
+    "category": "wearable",
+    "description": "Open-source platform that unifies wearable data from many providers.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "wger-project/flutter",
+    "category": "workout",
+    "description": "Mobile app for the wger workout manager.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-15"
+  },
+  {
+    "repo": "wger-project/wger",
+    "category": "workout",
+    "description": "Free, open-source workout and fitness manager.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-15"
+  },
+  {
+    "repo": "yuhonas/free-exercise-db",
+    "category": "workout",
+    "description": "Public domain exercise dataset with instructions and images.",
+    "license": "Unlicense",
+    "verified": "2026-10-18",
+    "last_commit": "2026-09-27"
+  }
+]
